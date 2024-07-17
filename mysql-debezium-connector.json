@@ -6,7 +6,7 @@
     "database.hostname": "mysql",
     "database.port": "3306",
     "database.user": "root",
-    "database.password": "opklnm123",
+    "database.password": "password",
     "database.server.id": "1",
     "database.server.name": "mysql",
     "topic.prefix": "cdc" ,
